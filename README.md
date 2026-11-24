@@ -70,5 +70,5 @@ MIT.
 
 - [vibe-coding-anti-patterns](https://github.com/0xelitesystem/vibe-coding-anti-patterns) - what AI does badly + how to catch it
 - [ai-generated-code-review-rubrics](https://github.com/0xelitesystem/ai-generated-code-review-rubrics) - rubrics for reviewing AI-generated code
-- [agentic-workflow-patterns](https://github.com/0xelitesystem/agentic-workflow-patterns) - working with coding agents
-- [prompt-templates](https://github.com/0xelitesystem/prompt-templates) - general (non-coding) prompt templates
+- [coding-agent-work-patterns](https://github.com/0xelitesystem/coding-agent-work-patterns) - working with coding agents
+- [failure-mode-prompts](https://github.com/0xelitesystem/failure-mode-prompts) - general (non-coding) prompt templates
